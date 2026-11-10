@@ -7,3 +7,4 @@ What is branch?
 do you know how to edit file??
 os is really hard, but interesting
 now i'm learning about process
+do you know difference between thread and process?

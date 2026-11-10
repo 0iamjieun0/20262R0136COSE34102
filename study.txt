@@ -1,1 +1,3 @@
 Hello GitHub
+Today i learned how to use Github.
+I learned how to create a repository.

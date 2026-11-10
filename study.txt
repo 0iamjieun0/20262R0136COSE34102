@@ -5,3 +5,4 @@ I learned how to commit changes.
 Honestly, i don't know how to use git.
 What is branch?
 do you know how to edit file??
+os is really hard, but interesting

@@ -11,3 +11,8 @@ print("Top element:", s.peek())
 print("Popped element:", s.pop())
 print("Stack size after pop:", s.size())
 print("Is stack empty?", s.is_empty())
+
+
+print("Adding another element")
+s.push(40)
+print("New top element:", s.peek())

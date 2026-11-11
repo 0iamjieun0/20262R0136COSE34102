@@ -30,3 +30,7 @@ while not s.is_empty():
     print("Removed:", s.pop())
 
 print("Is stack empty?", s.is_empty())
+
+print("Removing the top element")
+print("Popped:", s.pop())
+print("Current size:", s.size())

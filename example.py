@@ -23,3 +23,10 @@ print("New top element:", s.peek())
 
 print("Checking the top element")
 print("Top:", s.peek())
+
+print("Removing all elements")
+
+while not s.is_empty():
+    print("Removed:", s.pop())
+
+print("Is stack empty?", s.is_empty())

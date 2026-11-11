@@ -34,3 +34,21 @@ python example.py
 - Understand the Last-In-First-Out (LIFO) principle
 - Practice Python classes and methods
 - Learn how to manage source code using GitHub
+
+## Example Output
+
+The example program demonstrates the following operations:
+
+1. Push elements onto the stack.
+2. Check the size of the stack.
+3. View the top element using peek().
+4. Remove an element using pop().
+5. Check whether the stack is empty.
+
+## Conclusion
+
+Through this project, I practiced implementing
+a basic data structure using Python.
+
+I also learned how to manage source code
+and track changes using GitHub commits.

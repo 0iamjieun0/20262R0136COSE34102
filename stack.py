@@ -1,3 +1,7 @@
+# Stack Data Structure
+# A stack follows the Last-In-First-Out (LIFO) principle.
+# Elements are added and removed from the top of the stack.
+
 class Stack:
     def __init__(self):
         self.items = []

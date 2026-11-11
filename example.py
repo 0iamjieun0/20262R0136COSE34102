@@ -16,3 +16,7 @@ print("Is stack empty?", s.is_empty())
 print("Adding another element")
 s.push(40)
 print("New top element:", s.peek())
+
+print("Adding another element")
+s.push(40)
+print("New top element:", s.peek())

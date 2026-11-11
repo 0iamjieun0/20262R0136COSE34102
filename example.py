@@ -20,3 +20,6 @@ print("New top element:", s.peek())
 print("Adding another element")
 s.push(40)
 print("New top element:", s.peek())
+
+print("Checking the top element")
+print("Top:", s.peek())
